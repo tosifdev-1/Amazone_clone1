@@ -428,6 +428,12 @@ color:#007185;
 font-weight:small;
 margin-top:7px;
 margin-left:8px;
+}.hero-img{
+background-image:URL(https://images-eu.ssl-images-amazon.com/images/G/31/Events/img24/AugART24/Thankyou/AugART24_PC_Thankyou.jpg);
+background-size:auto;
+background-repeat:no-repeat;
+height:250px;
+width:100%;
 }
       </style>
     </head>
